@@ -35,14 +35,6 @@ This is a simple CRUD application built with Spring Boot, Spring Data JPA, and P
 }
 
 
-🧾 How to Run
-Clone the repo
 
-Create a PostgreSQL database (e.g., studentdb)
-
-Update application.properties with your DB credentials
-
-Run the app: ./mvnw spring-boot:run or from your IDE
-
-🧑‍💻 Author
+##🧑‍💻 Author
 Jaya Prakash
