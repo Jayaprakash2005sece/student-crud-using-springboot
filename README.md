@@ -24,6 +24,12 @@ This is a simple CRUD application built with Spring Boot, Spring Data JPA, and P
 | POST   | `/api/student`     | Add a new student    |
 | GET    | `/api/student/{id}`| Get student by ID    |
 
+
+
+
+
+
+
 ## 🧪 Example POST Request Body
 ```json
 {
@@ -34,6 +40,7 @@ This is a simple CRUD application built with Spring Boot, Spring Data JPA, and P
   "dob": "2003-05-15"
 }
 
+```
 
 
 ##🧑‍💻 Author
